@@ -44,8 +44,8 @@ canvas{
 } */
 .relative {
     position: absolute;
-    left:38%;
-    top:46%;
+    left:32%;
+    top:50%;
     transform: translate(-50%, -50%);
   }
   .relative > p{
@@ -138,5 +138,5 @@ canvas{
   }
 
   table td, table th {
-    text-align: center;
+    text-align: left;
   }
